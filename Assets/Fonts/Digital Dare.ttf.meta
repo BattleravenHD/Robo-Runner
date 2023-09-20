@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 35f429fd0c6a3d4448b4c6c4ae2b6a24
+timeCreated: 1529445205
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Digital Dare
+  fontNames:
+  - Digital Dare
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bcb25bed20192da4cab52cd01a3936e2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

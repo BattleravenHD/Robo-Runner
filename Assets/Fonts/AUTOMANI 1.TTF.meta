@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b5f2087fa0b530841bf4a320c57619aa
+timeCreated: 1529444404
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Automania
+  fontNames:
+  - Automania
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 34cc902aacf3189498595d9849f6b346, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
